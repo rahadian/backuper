@@ -4,6 +4,11 @@
 
 Simple program to backup your data(s) with schedule. You can adjust the time for backup.
 
+To use this program, first u must install:
+
+pip install schedule
+
+
 Thanks.
 
 >_Aryatux
