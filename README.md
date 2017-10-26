@@ -8,7 +8,7 @@ To use this program, first u must install:
 
 .. code-block:: bash
 
-pip install schedule
+    pip install schedule
 
 
 Thanks.
