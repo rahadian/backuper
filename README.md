@@ -6,7 +6,6 @@ Simple program to backup your data(s) with schedule. You can adjust the time for
 
 To use this program, first u must install:
 
-.. code-block:: bash
 
     pip install schedule
 
