@@ -6,9 +6,9 @@ red = "\033[01;31m{0}\033[00m"
 grn = "\033[01;36m{0}\033[00m"
 def open():
 	print red.format("==============================================================")
-	print grn.format("Hi,This is a program for backuping your data. Made by arytux")
+	print grn.format("Hi,This is a program for backup your data. Made by arytux")
 	print red.format("==============================================================")
-	print "Make directory location for your backuped data."
+	print "Make directory location for your backup data."
 class Core():
 
 	def dirz(self):
